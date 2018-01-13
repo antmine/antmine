@@ -24,8 +24,7 @@ Because of the school deadline, the projet is not completed finished. Here you w
 
 
 ## How it's works ?
-For more technicals informations about the project, please read [this](https::/github.com/antmine/antmine). _The technical documentation will be released soon._
-
+For more technicals informations about the project, please read [this](https::/github.com/antmine/antmine/blob/master/techinical-doc.md).
 
 ## And now ?
 Now, your studies are completed and we leave this projet to the open source community. Do what you want with this project. Just think of writing us if you using it. It will be nice of you.
